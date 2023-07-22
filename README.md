@@ -1,9 +1,9 @@
 # About-me
 👋 Welcome to my GitHub profile! I'm a physics student with a deep passion for computational physics, machine learning, algorithms, statistics, and electronic devices. Join me through the journey of exciting intersections of these fields.
 
-<h1 align="center">Hi , I'm Shreyansh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Shreyansh! </h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate%20about%20all%20things%20Code!;Machine+Learning+Enthusiast;Data+Science+Enthusiast;Full+Stack+Django+Developer&center=true&width=500&height=50"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Some%20thing%20here%20which%20is%20not%20copied;Machine+Learning;physics&center=true&width=500&height=50"></a>
  <p align = "center">
     
 
